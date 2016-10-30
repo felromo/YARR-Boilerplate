@@ -22,7 +22,7 @@ A pre-configured environment with a lot of goodies to make React-Redux developme
 
 ## Install
 
-1. `git clone repo [some-folder]`
+1. `git clone https://github.com/tyrantwarship/YARR-Boilerplate [some-folder]`
 2. `npm install` inside the root of the cloned folder, and wait for it to download all dependencies
 3. `npm start` to start the server on port 3000, `npm test` to run all the tests, or `npm test:watch` to run tests on save
 4. Start developing
